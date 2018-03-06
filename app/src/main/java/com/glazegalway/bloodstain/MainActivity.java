@@ -5,7 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     
-    String st_name = "Sumit"
+    String st_name = "Sumit & Prabhakar";
     TextView tv_textview;
 
     @Override
